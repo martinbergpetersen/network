@@ -5,7 +5,7 @@ import socket
 from urllib.parse import quote_plus
 
 import requests
-from pygeocoder import Geocoder # NOQA
+from pygeocoder import Geocoder  # NOQA
 
 BASE = '/maps/api/geocode/json'
 
